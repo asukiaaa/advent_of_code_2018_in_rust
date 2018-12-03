@@ -1,0 +1,6 @@
+[package]
+name = "p1p2"
+version = "0.1.0"
+authors = ["Asuk Kono <asukiaaa@gmail.com>"]
+
+[dependencies]
